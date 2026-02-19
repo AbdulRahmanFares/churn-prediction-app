@@ -10,7 +10,7 @@ The application uses a trained Neural Network model built with **Keras** and pro
 
 **Deployed on Streamlit Cloud**
 
-[link]
+[Churn Predication App](https://churn-prediction-app-python.streamlit.app/)
 
 ---
 
