@@ -1,0 +1,12 @@
+# Virtual Environment
+churn-prediction-app-venv/
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac
+.DS_Store
