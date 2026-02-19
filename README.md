@@ -80,7 +80,7 @@ python train.py
 
 ## Issues and Contributions
 
-If you encounter any issues or have suggestions for improvement, feel free to [open an issue](https://github.com/AbdulRahmanFares/YOLOv8-PersonTracker/issues) or submit a pull request.
+If you encounter any issues or have suggestions for improvement, feel free to [open an issue](https://github.com/AbdulRahmanFares/churn-prediction-app/issues) or submit a pull request.
 
 
 ## License
